@@ -2,7 +2,7 @@
   "name": "Adblock Plus",
   "version": "1.0",
   "description": "The most popular ad blocker on Firefox, Chrome, Safari, Android and iOS",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "applications": {
     "gecko": {
       "id": "adblock@merlin.gg"
